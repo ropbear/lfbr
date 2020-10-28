@@ -2,7 +2,9 @@
 
 To contribute, simply make your additions and open a pull request.
 
-## Rules
+Please note the intial collection will come from a cursory review of all the episodes, and often not a full listen. If you find a typo or a missing book mention, please contribute!
+
+## Guidelines
 
 1. Follow the [format](#format) below.
 2. The list should include the best-selling or topical book by the guest, if the guest is an author.

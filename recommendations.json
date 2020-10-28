@@ -116,10 +116,97 @@
 		"guest":"Jeff Atwood",
 		"title":"Stack Overflow and Coding Horror",
 		"yt":"https://www.youtube.com/watch?v=KZkYSSE8HHI",
+		"books":[]
+	},
+	{
+		"ep":8,
+		"guest":"Eric Schmidt",
+		"title":"Google",
+		"yt":"https://www.youtube.com/watch?v=hIC9FQpxVwQ",
 		"books":[
 			{
-				"title":"",
-				"author":""
+				"title":"The New Digital Age: Transforming Nations, Businesses, and Our Lives",
+				"author":"Eric Schmidt and Jared Cohen"
+			}
+		]
+	},
+	{
+		"ep":9,
+		"guest":"Stuart Russell",
+		"title":"Long-Term Future of Artificial Intelligence",
+		"yt":"https://www.youtube.com/watch?v=KsZI5oXBC0k",
+		"books":[
+			{
+				"title":"The Machine Stops",
+				"author":"E.M. Forster"
+			},
+			{
+				"title":"Artificial Intelligence: A Modern Approach",
+				"author":"Stuart Russell and Peter Norvig"
+			}
+		]
+	},
+	{
+		"ep":10,
+		"guest":"Pieter Abbeel",
+		"title":"Deep Reinforcement Learning",
+		"yt":"https://www.youtube.com/watch?v=l-mYLq6eZPY",
+		"books":[]
+	},
+	{
+		"ep":11,
+		"guest":"Juergen Schmidhuber",
+		"title":"Godel Machines, Meta-Learning, and LSTMs",
+		"yt":"https://www.youtube.com/watch?v=3FIo6evmweo",
+		"books":[]
+	},
+	{
+		"ep":12,
+		"guest":"Tuomas Sandholm",
+		"title":"Poker and Game Theory",
+		"yt":"https://www.youtube.com/watch?v=b7bStIQovcY",
+		"books":[]
+	},
+	{
+		"ep":13,
+		"guest":"Tomaso Poggio",
+		"title":"Brains, Minds, and Machines",
+		"yt":"https://www.youtube.com/watch?v=aSyZvBrPAyk",
+		"books":[
+			{
+				"title":"Flowers for Algernon",
+				"author":"Daniel Keyes"
+			}
+		]
+	},
+	{
+		"ep":14,
+		"guest":"Kyle Vogt",
+		"title":"Cruise Automation",
+		"yt":"https://www.youtube.com/watch?v=YUYagvESisE",
+		"books":[]
+	},
+	{
+		"ep":15,
+		"guest":"Leslie Kaelbling",
+		"title":"Reinforcement Learning, Planning, and Robotics",
+		"yt":"https://www.youtube.com/watch?v=Er7Dy8rvqOc",
+		"books":[
+			{
+				"title":"Learning in Embedded Systems",
+				"author":"Leslie Kaelbling"
+			}
+		]
+	},
+	{
+		"ep":16,
+		"guest":"Eric Weinstein",
+		"title":"Revolutionary Ideas in Science, Math, and Society",
+		"yt":"https://www.youtube.com/watch?v=2wq9x2QcZN0",
+		"books":[
+			{
+				"title":"The Double Helix",
+				"author":"James Watson"
 			}
 		]
 	}
