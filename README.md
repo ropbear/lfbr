@@ -14,7 +14,7 @@ To contribute, simply make your additions and open a pull request.
 		"guest":"Max Tegmark",
 		"title":"Life 3.0",
 		"yt":"https://www.youtube.com/watch?v=Gi8LUnhP5yU",
-		"reccs":{
+		"books":{
 			{
 				"title":"Life 3.0",
 				"author":"Max Tegmark"
