@@ -1,34 +1,34 @@
-{
+{[
 	{
 		"ep":1,
 		"guest":"Max Tegmark",
 		"title":"Life 3.0",
 		"yt":"https://www.youtube.com/watch?v=Gi8LUnhP5yU",
-		"books":{
+		"books":{[
 			{
 				"title":"Life 3.0",
 				"author":"Max Tegmark"
 			}
-		}
+		]}
 	},
 	{
 		"ep":2,
 		"guest":"Christof Koch",
 		"title":"Consciousness",
 		"yt":"https://www.youtube.com/watch?v=piHkfmeU7Wo",
-		"books":{
+		"books":{[
 			{
 				"title":"Conciousness = Confessions of a Romantic Reductionist",
 				"author":"Christof Koch"
 			}
-		}
+		]}
 	},
 	{
 		"ep":3,
 		"guest":"Steven Pinker",
 		"title":"AI in the Age of Reason",
 		"yt":"https://www.youtube.com/watch?v=epQxfSp-rdU",
-		"books":{
+		"books":{[
 			{
 				"title":"Enlightenment Now: The Case for Reason, Science, Humanism, and Progress",
 				"author":"Steven Pinker"
@@ -73,54 +73,54 @@
 				"title":"Language and Communication",
 				"author":"George Miller"
 			}
-		}
+		]}
 	},
 	{
 		"ep":4,
 		"guest":"Yoshua Bengio",
 		"title":"Deep Learning",
 		"yt":"https://www.youtube.com/watch?v=azOmzumh0vQ",
-		"books":{
+		"books":{[
 			{
 				"title":"Deep Learning",
 				"author":"Ian Goodfellow and Yoshua Bengio and Aaron Courville"
 			}
-		}
+		]}
 	},
 	{
 		"ep":5,
 		"guest":"Vladimir Vapnik",
 		"title":"Statiscal Learning",
 		"yt":"https://www.youtube.com/watch?v=STFcvzoxVw4",
-		"books":{
+		"books":{[
 			{
 				"title":"Statistical Learning Theory",
 				"author":"Vladimir Vapnik"
 			}
-		}
+		]}
 	},
 	{
 		"ep":6,
 		"guest":"Guido van Rossum",
 		"title":"Python",
 		"yt":"https://www.youtube.com/watch?v=ghwaIiE3Nd8",
-		"books":{
+		"books":{[
 			{
 				"title":"The Hitchhiker's Guide to the Galaxy",
 				"author":"Douglas Adams"
 			}
-		}
+		]}
 	},
 	{
 		"ep":7,
 		"guest":"Jeff Atwood",
 		"title":"Stack Overflow and Coding Horror",
 		"yt":"https://www.youtube.com/watch?v=KZkYSSE8HHI",
-		"books":{
+		"books":{[
 			{
 				"title":"",
 				"author":""
 			}
-		}
+		]}
 	}
-}
+]}
