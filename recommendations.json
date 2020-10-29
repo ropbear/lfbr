@@ -634,4 +634,111 @@
 		"yt":"https://www.youtube.com/watch?v=ZPPAOakITeQ",
 		"books":[]
 	},
+	{
+		"ep":60,
+		"guest":"Jim Gates",
+		"title":"Supersymmetry, String Theory and Proving Einstein Right",
+		"yt":"https://www.youtube.com/watch?v=IUHkhB366tE",
+		"books":[
+			{
+				"title":"Proving Einstein Right: The Daring Expeditions that Changed How We Look at the Universe",
+				"author":"Jim Gates Jr. and Cathie Pelletier"
+			}
+		]
+	},
+	{
+		"ep":61,
+		"guest":"Melanie Mitchell",
+		"title":"Concepts, Analogies, Common Sense & Future of AI",
+		"yt":"https://www.youtube.com/watch?v=ImKkaeUx1MU",
+		"books":[
+			{
+				"title":"I Am a Strange Loop",
+				"author":"Douglas Hofstadter"
+			},
+			{
+				"title":"Artificial Intelligence: A Guide for Thinking Humans",
+				"author":"Melanie Mitchell"
+			}
+		]
+	},
+	{
+		"ep":62,
+		"guest":"Donald Knuth",
+		"title":"Algorithms, Complexity, and The Art of Computer Programming",
+		"yt":"https://www.youtube.com/watch?v=2BdBfsXbST8",
+		"books":[
+			{
+				"title":"The Art of Computer Programming",
+				"author":"Donald E. Knuth"
+			},
+			{
+				"title":"Blasphemy",
+				"author":"Douglas Preston"
+			}
+		]
+	},
+	{
+		"ep":63,
+		"guest":"Stephen Kotkin",
+		"title":"Stalin, Putin, and the Nature of Power",
+		"yt":"https://www.youtube.com/watch?v=oCkkjnpS2f8",
+		"books":[
+			{
+				"title":"Stalin: Paradoxes of Power 1878-1928",
+				"author":"Stephen Kotkin"
+			},
+			{
+				"title":"Stalin: Waiting for Hitler 1929-1941",
+				"author":"Stephen Kotkin"
+			},
+			{
+				"title":"The Rise and Fall of the Third Reich",
+				"author":"William R. Shirer"
+			}
+		]
+	},
+	{
+		"ep":64,
+		"guest":"Grant Sanderson",
+		"title":"3Blue1Brown and the Beauty of Mathematics",
+		"yt":"https://www.youtube.com/watch?v=U_lKUK2MCsg",
+		"books":[]
+	},
+	{
+		"ep":65,
+		"guest":"Daniel Kahneman",
+		"title":"Thinking Fast and Slow, Deep Learning, and AI",
+		"yt":"https://www.youtube.com/watch?v=UwwBG-MbniY",
+		"books":[
+			{
+				"title":"Thinking, Fast and Slow",
+				"author":"Daniel Kahnerman"
+			}
+		]
+	},
+	{
+		"ep":66,
+		"guest":"Ayanna Howard",
+		"title":"Human-Robot Interaction & Ethics of Safety-Critical Systems",
+		"yt":"https://www.youtube.com/watch?v=J21-7AsUcgM",
+		"books":[
+			{
+				"title":"Sex, Race, and Robots",
+				"author":"Ayanna Howard"
+			}
+		]
+	},
+	{
+		"ep":67,
+		"guest":"Paul Krugman",
+		"title":"Economics of Innovation, Automation, Safety Nets & UBI",
+		"yt":"https://www.youtube.com/watch?v=OJQepiqSWvg",
+		"books":[
+			{
+				"title":" Arguing with Zombies: Economics, Politics, and the Fight for a Better Future",
+				"author":"Paul Krugman"
+			}
+		]
+	}
 ]
