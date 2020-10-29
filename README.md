@@ -8,6 +8,7 @@ Please note the intial collection will come from a cursory review of all the epi
 
 1. Follow the [format](#format) below.
 2. The list should include the best-selling or topical book by the guest, if the guest is an author.
+3. Please avoid textbooks
 
 ## Format
 ```
