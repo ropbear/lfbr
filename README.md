@@ -26,3 +26,10 @@ Please note the intial collection will come from a cursory review of all the epi
 	},
 
 ```
+
+## Methodology
+
+## Links
+
+1. https://lexfridman.com/podcast/
+2. https://www.goodreads.com/list/show/153500.Lex_Fridman_Podcast
