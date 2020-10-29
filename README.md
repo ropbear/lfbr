@@ -26,3 +26,20 @@ Please note the intial collection will come from a cursory review of all the epi
 	},
 
 ```
+
+## Methodology
+
+In general, the content is viewed on youtube.
+
+1. Check show notes for a "Literature" or "recommendations" timestamp
+2. Hover over timeline to check frames for book covers displayed on screen.
+3. Search for topical books written by the guest, choose the most popular, relevant one.
+
+This is by no means set in stone, nor does the book _have_ to appear or be mentioned in the podcast audio.
+
+Yes, this was and is done manually. Yes, that is probably not the optimal solution.
+
+## Links
+
+1. https://lexfridman.com/podcast/
+2. https://www.goodreads.com/list/show/153500.Lex_Fridman_Podcast
