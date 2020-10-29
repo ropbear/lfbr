@@ -37,6 +37,8 @@ In general, the content is viewed on youtube.
 
 This is by no means set in stone, nor does the book _have_ to appear or be mentioned in the podcast audio.
 
+Yes, this was and is done manually. Yes, that is probably not the optimal solution.
+
 ## Links
 
 1. https://lexfridman.com/podcast/
