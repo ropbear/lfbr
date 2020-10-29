@@ -437,5 +437,201 @@
 				"author":"Daniel Keyes"
 			}
 		]
-	}
+	},
+	{
+		"ep":41,
+		"guest":"Leonard Susskind",
+		"title":"Quantum Mechanics, String Theory and Black Holes",
+		"yt":"https://www.youtube.com/watch?v=s78hvV3QLUE",
+		"books":[
+			{
+				"title":"The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics",
+				"author":"Leonard Susskind"
+			}
+		]
+	},
+	{
+		"ep":42,
+		"guest":"Peter Norvig",
+		"title":"Artificial Intelligence: A Modern Approach",
+		"yt":"https://www.youtube.com/watch?v=_VPxEcT_Adc",
+		"books":[
+			{
+				"title":"Artificial Intelligence: A Modern Approach",
+				"author":"Stuart Russell and Peter Norvig"
+			}
+		]
+	},
+	{
+		"ep":43,
+		"guest":"Gary Marcus",
+		"title":"Toward a Hybrid of Deep Learning and Symbolic AI",
+		"yt":"https://www.youtube.com/watch?v=vNOTDn3D_RI",
+		"books":[
+			{
+				"title":"Rebooting AI: Building Artificial Intelligence We Can Trust",
+				"author":"Gary Marcus and Ernest Davis"
+			}
+		]
+	},
+	{
+		"ep":44,
+		"guest":"David Ferrucci",
+		"title":"IBM Watson, Jeopardy & Deep Conversations with AI",
+		"yt":"https://www.youtube.com/watch?v=Whtt2H5_isM",
+		"books":[
+			{
+				"title":"Artificial Intelligence and Literary Creativity: Inside the Mind of Brutus, A Storytelling Machine",
+				"author":"David Ferrucci"
+			}
+		]
+	},
+	{
+		"ep":45,
+		"guest":"Michio Kaku",
+		"title":"Future of Humans, Aliens, Space Travel & Physics",
+		"yt":"https://www.youtube.com/watch?v=kD5yc1LQrpQ",
+		"books":[
+			{
+				"title":"The Future of Humanity: Terraforming Mars, Interstellar Travel, Immortality, and Our Destiny Beyond Earth",
+				"author":"Michio Kaku"
+			}
+		]
+	},
+	{
+		"ep":46,
+		"guest":"Garry Kasparov",
+		"title":"Chess, Deep Blue, AI, and Putin",
+		"yt":"https://www.youtube.com/watch?v=8RVa0THWUWw",
+		"books":[]
+	},
+	{
+		"ep":47,
+		"guest":"Sean Carroll",
+		"title":"Quantum Mechanics and the Many-Worlds Interpretation",
+		"yt":"https://www.youtube.com/watch?v=iNqqOLscOBY",
+		"books":[]
+	},
+	{
+		"ep":48,
+		"guest":"Bjarne Stroustrup",
+		"title":"C++",
+		"yt":"https://www.youtube.com/watch?v=uTxRF5ag27A",
+		"books":[]
+	},
+	{
+		"ep":49,
+		"guest":"Elon Musk",
+		"title":"Neuralink, AI, Autopilot, and the Pale Blue Dot",
+		"yt":"https://www.youtube.com/watch?v=smK9dgdTl40",
+		"books":[]
+	},
+	{
+		"ep":50,
+		"guest":"Michael Kearns",
+		"title":"Algorithmic Fairness, Privacy & Ethics",
+		"yt":"https://www.youtube.com/watch?v=AzdxbzHtjgs",
+		"books":[
+			{
+				"title":"Infinite Jest",
+				"author":"David Foster Wallace"
+			},
+			{
+				"title":"The Ethical Algorithm",
+				"author":"Michael Kearns and Aaron Roth"
+			}
+		]
+	},
+	{
+		"ep":51,
+		"guest":"Dava Newman",
+		"title":"Space Exploration, Space Suits, and Life on Mars",
+		"yt":"https://www.youtube.com/watch?v=2fI6bYnRgSc",
+		"books":[]
+	},
+	{
+		"ep":52,
+		"guest":"Gilbert Strang",
+		"title":"Linear Algebra, Teaching, and MIT OpenCourseWare",
+		"yt":"https://www.youtube.com/watch?v=lEZPfmGCEk0",
+		"books":[]
+	},
+	{
+		"ep":53,
+		"guest":"Noam Chomsky",
+		"title":"Language, Cognition, and Deep Learning",
+		"yt":"https://www.youtube.com/watch?v=cMscNuSUy0I",
+		"books":[
+			{
+				"title":"Understanding Power",
+				"author":"Noam Chomsky"
+			}
+		]
+	},
+	{
+		"ep":54,
+		"guest":"Ray Dalio",
+		"title":"Principles, the Economic Machine, AI & the Arc of Life",
+		"yt":"https://www.youtube.com/watch?v=M95m2EFb7IQ  ",
+		"books":[
+			{
+				"title":"Principles for Navigating Big Debt Crises",
+				"author":"Ray Dalio"
+			},
+			{
+				"title":"Principles",
+				"author":"Ray Dalio"
+			}
+		]
+	},
+	{
+		"ep":55,
+		"guest":"Whitney Cummings",
+		"title":"Comedy, Robotics, Neurology, and Love",
+		"yt":"https://www.youtube.com/watch?v=0-3kw5BEKB8",
+		"books":[
+			{
+				"title":"I'm Fine ...And Other Lies",
+				"author":"Whitney Cummings"
+			}
+		]
+	},
+	{
+		"ep":56,
+		"guest":"Judea Pearl",
+		"title":"Causal Reasoning, Counterfactuals, and the Path to AGI",
+		"yt":"https://www.youtube.com/watch?v=pEBI0vF45ic",
+		"books":[
+			{
+				"title":"Causality: Models, Reasoning, and Inference",
+				"author":"Judea Pearl"
+			}
+		]
+	},
+	{
+		"ep":57,
+		"guest":"Rohit Prasad",
+		"title":"Amazon Alexa and Conversational AI",
+		"yt":"https://www.youtube.com/watch?v=Ad89JYS-uZM",
+		"books":[]
+	},
+	{
+		"ep":58,
+		"guest":"Michael Stevens",
+		"title":"Vsauce",
+		"yt":"https://www.youtube.com/watch?v=3qMemn__kK8",
+		"books":[
+			{
+				"title":"The Universe and the Teacup",
+				"author":"K.C. Cole"
+			}
+		]
+	},
+	{
+		"ep":59,
+		"guest":"Sebastian Thrun",
+		"title":"Flying Cars, Autonomous Vehicles, and Education",
+		"yt":"https://www.youtube.com/watch?v=ZPPAOakITeQ",
+		"books":[]
+	},
 ]
