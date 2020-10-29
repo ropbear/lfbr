@@ -209,5 +209,233 @@
 				"author":"James Watson"
 			}
 		]
+	},
+	{
+		"ep":17,
+		"guest":"Greg Brockman",
+		"title":"OpenAI and AGI",
+		"yt":"https://www.youtube.com/watch?v=bIrEM2FbOLU",
+		"books":[]
+	},
+	{
+		"ep":18,
+		"guest":"Elon Musk",
+		"title":"Tesla Autopilot",
+		"yt":"https://www.youtube.com/watch?v=dEv99vxKjVI",
+		"books":[]
+	},
+	{
+		"ep":19,
+		"guest":"Ian Goodfellow",
+		"title":"Generative Adversarial Networks (GANs)",
+		"yt":"https://www.youtube.com/watch?v=Z6rxFNMGdn0",
+		"books":[]
+	},
+	{
+		"ep":20,
+		"guest":"Oriol Vinyals",
+		"title":"DeepMind AlphaStar, StarCraft, and Language",
+		"yt":"https://www.youtube.com/watch?v=Kedt2or9xlo",
+		"books":[]
+	},
+	{
+		"ep":21,
+		"guest":"Chris Lattner",
+		"title":"Compilers, LLVM, Swift, TPU, and ML Accelerators",
+		"yt":"https://www.youtube.com/watch?v=yCd3CzGSte8",
+		"books":[]
+	},
+	{
+		"ep":22,
+		"guest":"Rajat Monga",
+		"title":"TensorFlow",
+		"yt":"https://www.youtube.com/watch?v=NERNE4UThHU",
+		"books":[]
+	},
+	{
+		"ep":23,
+		"guest":"Gavin Miller",
+		"title":"Adobe Research",
+		"yt":"https://www.youtube.com/watch?v=q0mokx-iiws",
+		"books":[]
+	},
+	{
+		"ep":24,
+		"guest":"Rosalind Picard",
+		"title":"Affective Computing, Emotion, Privacy, and Health",
+		"yt":"https://www.youtube.com/watch?v=kq0VO1FqE6I",
+		"books":[
+			{
+				"title":"Affective Computing",
+				"author":"Rosalind Picard"
+			}
+		]
+	},
+	{
+		"ep":25,
+		"guest":"Jeff Hawkins",
+		"title":"Thousand Brains Theory of Intelligence",
+		"yt":"https://www.youtube.com/watch?v=-EVqrDlAqYo",
+		"books":[
+			{
+				"title":"On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines",
+				"author":"Jeff Hawkins"
+			}
+		]
+	},
+	{
+		"ep":26,
+		"guest":"Sean Carroll",
+		"title":"The Nature of the Universe, Life, and Intelligence",
+		"yt":"https://www.youtube.com/watch?v=l-NJrvyRo0c",
+		"books":[]
+	},
+	{
+		"ep":27,
+		"guest":"Kai-Fu Lee",
+		"title":"AI Superpowers - China and Silicon Valley",
+		"yt":"https://www.youtube.com/watch?v=cQ48rP_Rs4g",
+		"books":[
+			{
+				"title":"AI Superpowers: China, Silicon Valley, and the New World Order",
+				"author":"Kai-Fu Lee"
+			}
+		]
+	},
+	{
+		"ep":28,
+		"guest":"Chris Urmson",
+		"title":"Self-Driving Cars at Aurora, Google, CMU, and DARPA",
+		"yt":"https://www.youtube.com/watch?v=Tj6NOfdfa4o",
+		"books":[]
+	},
+	{
+		"ep":29,
+		"guest":"Gustav Soderstrom",
+		"title":"Spotify",
+		"yt":"https://www.youtube.com/watch?v=v-9Mpe7NhkM",
+		"books":[]
+	},
+	{
+		"ep":30,
+		"guest":"Kevin Scott",
+		"title":"Microsoft CTO",
+		"yt":"https://www.youtube.com/watch?v=QDN6xvhAw94",
+		"books":[
+			{
+				"title":"Radical Markets",
+				"author":"Eric Posner and E. Glen Weyl"
+			}
+		]
+	},
+	{
+		"ep":31,
+		"guest":"George Hotz",
+		"title":"Comma.ai, OpenPilot, and Autonomous Vehicles",
+		"yt":"https://www.youtube.com/watch?v=iwcYp-XT7UI",
+		"books":[
+			{
+				"title":"Gray Hat Hacking: the Ethical Hacker's Handbook, Fifth Edition",
+				"author":"Daniel Regalado and Michael Baucom and Shon Harris"
+			}
+		]
+	},
+	{
+		"ep":32,
+		"guest":"Paola Arlotta",
+		"title":"Brain Development from Stem Cell to Organoid",
+		"yt":"https://www.youtube.com/watch?v=lVHRs3uTHNI",
+		"books":[]
+	},
+	{
+		"ep":33,
+		"guest":"Keoki Jackson",
+		"title":"Lockheed Martin",
+		"yt":"https://www.youtube.com/watch?v=anXep8kBOCg",
+		"books":[]
+	},
+	{
+		"ep":34,
+		"guest":"Pamela McCorduck",
+		"title":"Machines Who Think and the Early Days of AI",
+		"yt":"https://www.youtube.com/watch?v=i6rnzk8VU24",
+		"books":[
+			{
+				"title":"The Edge of Chaos",
+				"author":"Pamela McCorduck"
+			},
+			{
+				"title":"The Futures of Women",
+				"author":"Pamela McCorduck and Nancy Ramsey"
+			},
+			{
+				"title":"Machines Who Think",
+				"author":"Pamela McCorduck"
+			}
+		]
+	},
+	{
+		"ep":35,
+		"guest":"Jeremy Howard",
+		"title":"fast.ai Deep Learning Courses and Research",
+		"yt":"https://www.youtube.com/watch?v=J6XcP4JOHmk",
+		"books":[]
+	},
+	{
+		"ep":36,
+		"guest":"Yann LeCun",
+		"title":"Deep Learning, ConvNets, and Self-Supervised Learning",
+		"yt":"https://www.youtube.com/watch?v=SGSOCuByo24",
+		"books":[]
+	},
+	{
+		"ep":37,
+		"guest":"Vijay Kumar",
+		"title":"Flying Robots",
+		"yt":"https://www.youtube.com/watch?v=HYsLTNXMl1Q",
+		"books":[]
+	},
+	{
+		"ep":38,
+		"guest":"François Chollet",
+		"title":"Keras, Deep Learning, and the Progress of AI",
+		"yt":"https://www.youtube.com/watch?v=Bo8MY4JpiXE",
+		"books":[
+			{
+				"title":"Deep Learning With Python",
+				"author":"François Chollet"
+			}
+		]
+	},
+	{
+		"ep":39,
+		"guest":"Colin Angle",
+		"title":"iRobot CEO",
+		"yt":"https://www.youtube.com/watch?v=1d9Dj9dT_pw",
+		"books":[]
+	},
+	{
+		"ep":40,
+		"guest":"Regina Barzilay",
+		"title":"Deep Learning for Cancer Diagnosis and Treatment",
+		"yt":"https://www.youtube.com/watch?v=x0-zGdlpTeg",
+		"books":[
+			{
+				"title":"The Emperor of All Maladies",
+				"author":"Siddhartha Mukherjee"
+			},
+			{
+				"title":"Americanah",
+				"author":"Chimamanda Ngozi Adichie"
+			},
+			{
+				"title":"An American Sickness",
+				"author":"Elisabeth Rosenthal"
+			},
+			{
+				"title":"Flowers for Algernon",
+				"author":"Daniel Keyes"
+			}
+		]
 	}
 ]
