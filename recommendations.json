@@ -740,5 +740,146 @@
 				"author":"Paul Krugman"
 			}
 		]
+	},
+	{
+		"ep":68,
+		"guest":"Cristos Goodrow",
+		"title":"YouTube Algorithm",
+		"yt":"https://www.youtube.com/watch?v=nkWmiNRPU-c",
+		"books":[]
+	},
+	{
+		"ep":69,
+		"guest":"David Chalmers",
+		"title":"The Hard Problem of Consciousness",
+		"yt":"https://www.youtube.com/watch?v=LW59lMvxmY4",
+		"books":[
+			{
+				"title":"The Conscious Mind: In Search of a Fundamental Theory (Philosophy of Mind)",
+				"author":"David Chalmers"
+			}
+		]
+	},
+	{
+		"ep":70,
+		"guest":"Jim Keller",
+		"title":"Moore's Law, Microprocessors, and First Principles",
+		"yt":"https://www.youtube.com/watch?v=Nb2tebYAaOA",
+		"books":[]
+	},
+	{
+		"ep":71,
+		"guest":"Vladimir Vapnik",
+		"title":"Predicates, Invariants, and the Essence of Intelligence",
+		"yt":"https://www.youtube.com/watch?v=bQa7hpUpMzM",
+		"books":[]
+	},
+	{
+		"ep":72,
+		"guest":"Scott Aaronson",
+		"title":"Quantum Computing",
+		"yt":"https://www.youtube.com/watch?v=uX5t8EivCaM",
+		"books":[
+			{
+				"title":"Quantum Computing since Democritus",
+				"author":"Scott Aaronson"
+			}
+		]
+	},
+	{
+		"ep":73,
+		"guest":"Andrew Ng",
+		"title":"Deep Learning, Education, and Real-World AI",
+		"yt":"https://www.youtube.com/watch?v=0jspaMLxBig",
+		"books":[]
+	},
+	{
+		"ep":74,
+		"guest":"Michael I. Jordan",
+		"title":"Machine Learning, Recommender Systems, and Future of AI",
+		"yt":"https://www.youtube.com/watch?v=EYIKy_FM9x0",
+		"books":[]
+	},
+	{
+		"ep":75,
+		"guest":"Marcus Hutter",
+		"title":"Universal Artificial Intelligence, AIXI, and AGI",
+		"yt":"https://www.youtube.com/watch?v=E1AxVXt2Gv4",
+		"books":[
+			{
+				"title":"Artificial Intelligence: A Modern Approach",
+				"author":"Stuart Russell and Peter Norvig"
+			},
+			{
+				"title":"Reinforcement Learning:An Introduction",
+				"author":"Richard Sutton and Andrew Barto"
+			},
+			{
+				"title":"Theory of Knowledge",
+				"author":"Nicholas Alchin"
+			},
+			{
+				"title":"Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability",
+				"author":"Marcus Hutter"
+			}
+		]
+	},
+	{
+		"ep":76,
+		"guest":"John Hopfield",
+		"title":"Physics View of the Mind and Neurobiology",
+		"yt":"https://www.youtube.com/watch?v=DKyzcbNr8WE",
+		"books":[
+			{
+				"title":"The Mind is Flat: The Remarkable Shallowness of the Improvising Brain",
+				"author":"Nick Chater"
+			},
+			{
+				"title":"Einstein's Dreams",
+				"author":"Alan Lightman"
+			}
+		]
+	},
+	{
+		"ep":77,
+		"guest":"Alex Garland",
+		"title":"Ex Machina, Devs, Annihilation, and the Poetry of Science",
+		"yt":"https://www.youtube.com/watch?v=gU-mkuMU428",
+		"books":[]
+	},
+	{
+		"ep":78,
+		"guest":"Ann Druyan",
+		"title":"Cosmos, Carl Sagan, Voyager, and the Beauty of Science",
+		"yt":"https://www.youtube.com/watch?v=7jFdxd1qX2g",
+		"books":[
+			{
+				"title":"Cosmos",
+				"author":"Carl Sagan"
+			},
+			{
+				"title":"Cosmos: Possible Worlds",
+				"author":"Ann Druyan"
+			}
+		]
+	},
+	{
+		"ep":79,
+		"guest":"Lee Smolin",
+		"title":"Quantum Gravity and Einstein's Unfinished Revolution",
+		"yt":"https://www.youtube.com/watch?v=WgLo4gmEraU",
+		"books":[
+			{
+				"title":"The Trouble with Physics",
+				"author":"Lee Smolin"
+			}
+		]
+	},
+	{
+		"ep":80,
+		"guest":"Vitalik Buterin",
+		"title":"Ethereum, Cryptocurrency, and the Future of Money",
+		"yt":"https://www.youtube.com/watch?v=3x1b_S6Qp2Q",
+		"books":[]
 	}
 ]
