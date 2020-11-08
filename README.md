@@ -8,7 +8,6 @@ Please note the intial collection will come from a cursory review of all the epi
 
 1. Follow the [format](#format) below.
 2. The list should include the best-selling or topical book by the guest, if the guest is an author.
-3. Please avoid textbooks
 
 ## Format
 ```
@@ -32,7 +31,7 @@ Please note the intial collection will come from a cursory review of all the epi
 In general, the content is viewed on youtube.
 
 1. Check show notes for a "Literature" or "recommendations" timestamp
-2. Hover over timeline to check frames for book covers displayed on screen.
+2. Hover over timeline to check frame thumbnails for book covers displayed on screen.
 3. Search for topical books written by the guest, choose the most popular, relevant one.
 
 This is by no means set in stone, nor does the book _have_ to appear or be mentioned in the podcast audio.

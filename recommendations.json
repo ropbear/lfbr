@@ -881,5 +881,475 @@
 		"title":"Ethereum, Cryptocurrency, and the Future of Money",
 		"yt":"https://www.youtube.com/watch?v=3x1b_S6Qp2Q",
 		"books":[]
-	}
+	},
+	{
+		"ep":81,
+		"guest":"Anca Dragan",
+		"title":"Human-Robot Interaction and Reward Engineering",
+		"yt":"https://www.youtube.com/watch?v=iOCfIFBBpVY",
+		"books":[
+			{
+				"title":"Artificial Intelligence: A Modern Approach",
+				"author":"Stuart Russell and Peter Norvig"
+			}
+		]
+	},
+	{
+		"ep":82,
+		"guest":"Simon Sinek",
+		"title":"Leadership, Hard Work, Optimism and the Infinite Game",
+		"yt":"https://www.youtube.com/watch?v=_TTNGq9djU4",
+		"books":[
+			{
+				"title":"The Infinite Game",
+				"author":"Simon Sinek"
+			},
+			{
+				"title":"Finite and Infinite Games",
+				"author":"James Carse"
+			}
+		]
+	},
+	{
+		"ep":83,
+		"guest":"Nick Bostrom",
+		"title":"Simulation and Superintelligence",
+		"yt":"https://www.youtube.com/watch?v=rfKiTGj-zeQ",
+		"books":[
+			{
+				"title":"Superintelligence",
+				"author":"Nick Bostrom"
+			}
+		]
+	},
+	{
+		"ep":84,
+		"guest":"William MacAskill",
+		"title":"Effective Altruism",
+		"yt":"https://www.youtube.com/watch?v=NvsI8ijW8xU",
+		"books":[
+			{
+				"title":"Doing Good Better",
+				"author":"William MacAskill"
+			}
+		]
+	},
+	{
+		"ep":85,
+		"guest":"Roger Penrose",
+		"title":"Physics of Consciousness and the Infinite Universe",
+		"yt":"https://www.youtube.com/watch?v=orMtwOz6Db0",
+		"books":[
+			{
+				"title":"The Road to Reality: A Complete Guide to the Laws of the Universe",
+				"author":"Roger Penrose"
+			},
+			{
+				"title":"The Emperor's New Mind",
+				"author":"Roger Penrose"
+			}
+		]
+	},
+	{
+		"ep":86,
+		"guest":"David Silver",
+		"title":"AlphaGo, AlphaZero, and Deep Reinforcement Learning",
+		"yt":"https://www.youtube.com/watch?v=uPUEq8d73JI",
+		"books":[]
+	},
+	{
+		"ep":87,
+		"guest":"Richard Dawkins",
+		"title":"Evolution, Intelligence, Simulation, and Memes",
+		"yt":"https://www.youtube.com/watch?v=5f-JlzBuUUU",
+		"books":[
+			{
+				"title":"The God Delusion",
+				"author":"Richard Dawkins"
+			},
+			{
+				"title":"The Origin of Species",
+				"author":"Charles Darwin"
+			},
+			{
+				"title":"Dark Universe",
+				"author":"Daniel Galouye"
+			},
+			{
+				"title":"The Black Cloud",
+				"author":"Fred Hoyle"
+			},
+			{
+				"title":"The Sentinel",
+				"author":"Arthur Clark"
+			},
+			{
+				"title":"A for Andromeda",
+				"author":"Fred Hoyle"
+			},
+			{
+				"title":"Cosmos",
+				"author":"Carl Sagan"
+			},
+			{
+				"title":"Contact",
+				"author":"Carl Sagan"
+			}
+		]
+	},
+	{
+		"ep":88,
+		"guest":"Eric Weinstein",
+		"title":"Geometric Unity and the Call for New Ideas & Institutions",
+		"yt":"https://www.youtube.com/watch?v=rIAZJNe7YtE",
+		"books":[]
+	},
+	{
+		"ep":89,
+		"guest":"Stephen Wolfram",
+		"title":"Cellular Automata, Computation, and Physics",
+		"yt":"https://www.youtube.com/watch?v=ez773teNFYA",
+		"books":[
+			{
+				"title":"A New Kind of Science",
+				"author":"Stephen Wolfram"
+			}
+		]
+	},
+	{
+		"ep":90,
+		"guest":"Dmitry Korkin",
+		"title":"Computational Biology of Coronavirus",
+		"yt":"https://www.youtube.com/watch?v=CwyOUS8TSl0",
+		"books":[]
+	},
+	{
+		"ep":91,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":92,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":93,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":94,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":95,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":96,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":97,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":98,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":99,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":100,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":101,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":102,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":103,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":104,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":105,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":106,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":107,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":108,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":109,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":110,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":111,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":112,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":113,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":114,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":115,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":116,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":117,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":118,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":119,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":120,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":121,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":122,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":123,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":124,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":125,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":126,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":127,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":128,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":129,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":130,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":131,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":132,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":133,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":134,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":135,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":136,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
+	{
+		"ep":137,
+		"guest":"",
+		"title":"",
+		"yt":"",
+		"books":[]
+	},
 ]
