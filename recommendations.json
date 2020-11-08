@@ -1028,13 +1028,18 @@
 		"guest":"Jack Dorsey",
 		"title":"Square, Cryptocurrency, and Artificial Intelligence",
 		"yt":"https://www.youtube.com/watch?v=60KJz1BVTyU",
-		"books":[]
+		"books":[
+			{
+				"title":"21 Lessons for the 21st Century",
+				"author":"Yuval Harari"
+			}
+		]
 	},
 	{
 		"ep":92,
 		"guest":"Harry Cliff",
 		"title":"Particle Physics and the Large Hadron Collider",
-		"yt":"",
+		"yt":"https://www.youtube.com/watch?v=8A-5gIW0-eI",
 		"books":[]
 	},
 	{
@@ -1042,7 +1047,12 @@
 		"guest":"Daphne Koller",
 		"title":"Biomedicine and Machine Learning",
 		"yt":"https://www.youtube.com/watch?v=xlMTWfkQqbY",
-		"books":[]
+		"books":[
+			{
+				"title":"Probabilistic Graphical Models: Principles and Techniques",
+				"author":"Daphne Koller"
+			}
+		]
 	},
 	{
 		"ep":94,
@@ -1063,7 +1073,12 @@
 		"guest":"Stephen Schwarzman",
 		"title":"Going Big in Business, Investing, and AI",
 		"yt":"https://www.youtube.com/watch?v=aYwDs9LTN50",
-		"books":[]
+		"books":[
+			{
+				"title":"What It Takes: Lessons in the Pursuit of Excellence",
+				"author":"Stephen Schwarzman"
+			}
+		]
 	},
 	{
 		"ep":97,
@@ -1077,7 +1092,12 @@
 		"guest":"Kate Darling",
 		"title":"Social Robotics",
 		"yt":"https://www.youtube.com/watch?v=7KTbEn7PiaY",
-		"books":[]
+		"books":[
+			{
+				"title":"The New Breed: What Our History with Animals Reveals about Our Future with Robots",
+				"author":"Kate Darling"
+			}
+		]
 	},
 	{
 		"ep":99,
@@ -1091,7 +1111,12 @@
 		"guest":"Alexander Fridman",
 		"title":"My Dad, the Plasma Physicist",
 		"yt":"https://www.youtube.com/watch?v=6JipQNWuYnA",
-		"books":[]
+		"books":[
+			{
+				"title":"Plasma Medicine",
+				"author":"Alexander Fridman and Gary Friedman"
+			}
+		]
 	},
 	{
 		"ep":101,
