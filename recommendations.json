@@ -1025,331 +1025,331 @@
 	},
 	{
 		"ep":91,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Jack Dorsey",
+		"title":"Square, Cryptocurrency, and Artificial Intelligence",
+		"yt":"https://www.youtube.com/watch?v=60KJz1BVTyU",
 		"books":[]
 	},
 	{
 		"ep":92,
-		"guest":"",
-		"title":"",
+		"guest":"Harry Cliff",
+		"title":"Particle Physics and the Large Hadron Collider",
 		"yt":"",
 		"books":[]
 	},
 	{
 		"ep":93,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Daphne Koller",
+		"title":"Biomedicine and Machine Learning",
+		"yt":"https://www.youtube.com/watch?v=xlMTWfkQqbY",
 		"books":[]
 	},
 	{
 		"ep":94,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Ilya Sutskever",
+		"title":"Deep Learning",
+		"yt":"https://www.youtube.com/watch?v=13CZPWmke6A",
 		"books":[]
 	},
 	{
 		"ep":95,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Dawn Song",
+		"title":"Adversarial Machine Learning and Computer Security",
+		"yt":"https://www.youtube.com/watch?v=HhY95m-WD_E",
 		"books":[]
 	},
 	{
 		"ep":96,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Stephen Schwarzman",
+		"title":"Going Big in Business, Investing, and AI",
+		"yt":"https://www.youtube.com/watch?v=aYwDs9LTN50",
 		"books":[]
 	},
 	{
 		"ep":97,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Sertac Karaman",
+		"title":"Robots That Fly and Robots That Drive",
+		"yt":"https://www.youtube.com/watch?v=M1-v-dXIzho",
 		"books":[]
 	},
 	{
 		"ep":98,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Kate Darling",
+		"title":"Social Robotics",
+		"yt":"https://www.youtube.com/watch?v=7KTbEn7PiaY",
 		"books":[]
 	},
 	{
 		"ep":99,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Karl Friston",
+		"title":"Neuroscience and the Free Energy Principle",
+		"yt":"https://www.youtube.com/watch?v=NwzuibY5kUs",
 		"books":[]
 	},
 	{
 		"ep":100,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Alexander Fridman",
+		"title":"My Dad, the Plasma Physicist",
+		"yt":"https://www.youtube.com/watch?v=6JipQNWuYnA",
 		"books":[]
 	},
 	{
 		"ep":101,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Joscha Bach",
+		"title":"Artificial Consciousness and the Nature of Reality",
+		"yt":"https://www.youtube.com/watch?v=P-2P3MSZrBM",
 		"books":[]
 	},
 	{
 		"ep":102,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Steven Pressfield",
+		"title":"The War of Art",
+		"yt":"https://www.youtube.com/watch?v=PgtedwKGhXs",
 		"books":[]
 	},
 	{
 		"ep":103,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Ben Goertzel",
+		"title":"Artificial General Intelligence",
+		"yt":"https://www.youtube.com/watch?v=OpSmCKe27WE",
 		"books":[]
 	},
 	{
 		"ep":104,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"David Patterson",
+		"title":"Computer Architecture and Data Storage",
+		"yt":"https://www.youtube.com/watch?v=naed4C4hfAg",
 		"books":[]
 	},
 	{
 		"ep":105,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Robert Langer",
+		"title":"Edison of Medicine",
+		"yt":"https://www.youtube.com/watch?v=9LQffCdHHlQ",
 		"books":[]
 	},
 	{
 		"ep":106,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Matt Botvinick",
+		"title":"Neuroscience, Psychology, and AI at DeepMind",
+		"yt":"https://www.youtube.com/watch?v=3t06ajvBtl0",
 		"books":[]
 	},
 	{
 		"ep":107,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Peter Singer",
+		"title":"Suffering in Humans, Animals, and AI",
+		"yt":"https://www.youtube.com/watch?v=llh-2pqSGrs",
 		"books":[]
 	},
 	{
 		"ep":108,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Sergey Levine",
+		"title":"Robotics and Machine Learning",
+		"yt":"https://www.youtube.com/watch?v=kxi-_TT_-Nc",
 		"books":[]
 	},
 	{
 		"ep":109,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Brian Kernighan",
+		"title":"UNIX, C, AWK, AMPL, and Go Programming",
+		"yt":"https://www.youtube.com/watch?v=O9upVbGSBFo",
 		"books":[]
 	},
 	{
 		"ep":110,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Jitendra Malik",
+		"title":"Computer Vision",
+		"yt":"https://www.youtube.com/watch?v=LRYkH-fAVGE",
 		"books":[]
 	},
 	{
 		"ep":111,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Richard Karp",
+		"title":"Algorithms and Computational Complexity",
+		"yt":"https://www.youtube.com/watch?v=KllCrlfLuzs",
 		"books":[]
 	},
 	{
 		"ep":112,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Ian Hutchinson",
+		"title":"Nuclear Fusion, Plasma Physics, and Religion",
+		"yt":"https://www.youtube.com/watch?v=pDSEjaDCtOU",
 		"books":[]
 	},
 	{
 		"ep":113,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Manolis Kellis",
+		"title":"Human Genome and Evolutionary Dynamics",
+		"yt":"https://www.youtube.com/watch?v=brslF-Cy3HU",
 		"books":[]
 	},
 	{
 		"ep":114,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Russ Tedrake",
+		"title":"Underactuated Robotics, Control, Dynamics and Touch",
+		"yt":"https://www.youtube.com/watch?v=A22Ej6kb2wo",
 		"books":[]
 	},
 	{
 		"ep":115,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Dileep George",
+		"title":"Brain-Inspired AI",
+		"yt":"https://www.youtube.com/watch?v=tg_m_LxxRwM",
 		"books":[]
 	},
 	{
 		"ep":116,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Sara Seager",
+		"title":"Search for Planets and Life Outside Our Solar System",
+		"yt":"https://www.youtube.com/watch?v=-jA2ABHBc6Y",
 		"books":[]
 	},
 	{
 		"ep":117,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Sheldon Solomon",
+		"title":"Death and Meaning",
+		"yt":"https://www.youtube.com/watch?v=qfKyNxfyWbo",
 		"books":[]
 	},
 	{
 		"ep":118,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Grant Sanderson",
+		"title":"Math, Manim, Neural Networks & Teaching with 3Blue1Brown",
+		"yt":"https://www.youtube.com/watch?v=U_6AYX42gkU",
 		"books":[]
 	},
 	{
 		"ep":119,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"David Eagleman",
+		"title":"Neuroplasticity and the Livewired Brain",
+		"yt":"https://www.youtube.com/watch?v=386s-y1aRRo",
 		"books":[]
 	},
 	{
 		"ep":120,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"François Chollet",
+		"title":"Measures of Intelligence",
+		"yt":"https://www.youtube.com/watch?v=PUAdj3w3wO4",
 		"books":[]
 	},
 	{
 		"ep":121,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Eugenia Kuyda",
+		"title":"Friendship with an AI Companion",
+		"yt":"https://www.youtube.com/watch?v=_AGPbvCDBCk",
 		"books":[]
 	},
 	{
 		"ep":122,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"David Fravor",
+		"title":"UFOs, Aliens, Fighter Jets, and Aerospace Engineering",
+		"yt":"https://www.youtube.com/watch?v=aB8zcAttP1E",
 		"books":[]
 	},
 	{
 		"ep":123,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Manolis Kellis",
+		"title":"Origin of Life, Humans, Ideas, Suffering, and Happiness",
+		"yt":"https://www.youtube.com/watch?v=t06rkOOUa7g",
 		"books":[]
 	},
 	{
 		"ep":124,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Stephen Wolfram",
+		"title":"Fundamental Theory of Physics, Life, and the Universe",
+		"yt":"https://www.youtube.com/watch?v=-t1_ffaFXao",
 		"books":[]
 	},
 	{
 		"ep":125,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Ryan Hall",
+		"title":"Martial Arts and the Philosophy of Violence, Power, and Grace",
+		"yt":"https://www.youtube.com/watch?v=hhEwWghH_XM",
 		"books":[]
 	},
 	{
 		"ep":126,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"James Gosling",
+		"title":"Java, JVM, Emacs, and the Early Days of Computing",
+		"yt":"https://www.youtube.com/watch?v=IT__Nrr3PNI",
 		"books":[]
 	},
 	{
 		"ep":127,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Joe Rogan",
+		"title":"Conversations, Ideas, Love, Freedom & the Joe Rogan Experience",
+		"yt":"https://www.youtube.com/watch?v=FKCJWkPehdY",
 		"books":[]
 	},
 	{
 		"ep":128,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Michael Malice",
+		"title":"Anarchy, Democracy, Libertarianism, Love, and Trolling",
+		"yt":"https://www.youtube.com/watch?v=BIk1zUy8ehU",
 		"books":[]
 	},
 	{
 		"ep":129,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Lisa Feldman Barrett",
+		"title":"Counterintuitive Ideas About How the Brain Works",
+		"yt":"https://www.youtube.com/watch?v=NbdRIVCBqNI",
 		"books":[]
 	},
 	{
 		"ep":130,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Scott Aaronson",
+		"title":"Computational Complexity and Consciousness",
+		"yt":"https://www.youtube.com/watch?v=nAMjv0NAESM",
 		"books":[]
 	},
 	{
 		"ep":131,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Chris Lattner",
+		"title":"The Future of Computing and Programming Languages",
+		"yt":"https://www.youtube.com/watch?v=nWTvXbQHwWs",
 		"books":[]
 	},
 	{
 		"ep":132,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"George Hotz",
+		"title":"Hacking the Simulation & Learning to Drive with Neural Nets",
+		"yt":"https://www.youtube.com/watch?v=_L3gNaAVjQ4",
 		"books":[]
 	},
 	{
 		"ep":133,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Manolis Kellis",
+		"title":"Biology of Disease",
+		"yt":"https://www.youtube.com/watch?v=Aq9UPIXbtKI",
 		"books":[]
 	},
 	{
 		"ep":134,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Eric Weinstein",
+		"title":"On the Nature of Good and Evil, Genius and Madness",
+		"yt":"https://www.youtube.com/watch?v=o2nG7-eXxko",
 		"books":[]
 	},
 	{
 		"ep":135,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Charles Isbell",
+		"title":"Computing, Interactive AI, and Race in America",
+		"yt":"https://www.youtube.com/watch?v=LAyZ8IYfGxQ",
 		"books":[]
 	},
 	{
 		"ep":136,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Dan Carlin",
+		"title":"Hardcore History",
+		"yt":"https://www.youtube.com/watch?v=-k-ztNsBM54",
 		"books":[]
 	},
 	{
 		"ep":137,
-		"guest":"",
-		"title":"",
-		"yt":"",
+		"guest":"Alex Filippenko",
+		"title":"Supernovae, Dark Energy, Aliens & the Expanding Universe",
+		"yt":"https://www.youtube.com/watch?v=WxfA1OSev4c",
 		"books":[]
 	},
 ]
