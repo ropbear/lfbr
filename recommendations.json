@@ -781,7 +781,7 @@
 		"yt":"https://www.youtube.com/watch?v=uX5t8EivCaM",
 		"books":[
 			{
-				"title":"Quantum Computing since Democritus",
+				"title":"Quantum Computing Since Democritus",
 				"author":"Scott Aaronson"
 			}
 		]
@@ -1415,7 +1415,20 @@
 		"guest":"Eugenia Kuyda",
 		"title":"Friendship with an AI Companion",
 		"yt":"https://www.youtube.com/watch?v=_AGPbvCDBCk",
-		"books":[]
+		"books":[
+			{
+				"title":"Godel, Escher, Bach",
+				"author":"Douglas Hofstadter"
+			},
+			{
+				"title":"On Becoming a Person",
+				"author":"Carl Rogers"
+			},
+			{
+				"title":"Tractatus",
+				"author":"Ludwig Wittgenstein"
+			}
+		]
 	},
 	{
 		"ep":122,
@@ -1436,7 +1449,16 @@
 		"guest":"Stephen Wolfram",
 		"title":"Fundamental Theory of Physics, Life, and the Universe",
 		"yt":"https://www.youtube.com/watch?v=-t1_ffaFXao",
-		"books":[]
+		"books":[
+			{
+				"title":"A Project to Find the Fundamental Theory of Physics",
+				"author":"Stephen Wolfram"
+			},
+			{
+				"title":"The Innovators",
+				"author":"Walter Isaacson"
+			}
+		]
 	},
 	{
 		"ep":125,
@@ -1450,7 +1472,12 @@
 		"guest":"James Gosling",
 		"title":"Java, JVM, Emacs, and the Early Days of Computing",
 		"yt":"https://www.youtube.com/watch?v=IT__Nrr3PNI",
-		"books":[]
+		"books":[
+			{
+				"title":"Numbers",
+				"author":"David Wells"
+			}
+		]
 	},
 	{
 		"ep":127,
@@ -1464,14 +1491,49 @@
 		"guest":"Michael Malice",
 		"title":"Anarchy, Democracy, Libertarianism, Love, and Trolling",
 		"yt":"https://www.youtube.com/watch?v=BIk1zUy8ehU",
-		"books":[]
+		"books":[
+			{
+				"title":"The New Right",
+				"author":"Michael Malice"
+			},
+			{
+				"title":"The Machiavellians",
+				"author":"James Burnham"
+			},
+			{
+				"title":"The Fountainhead",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"A Renegage History of the United States",
+				"author":"Thaddeus Russell"
+			},
+			{
+				"title":"Dear Reader",
+				"author":"Michael Malice"
+			}
+		]
 	},
 	{
 		"ep":129,
 		"guest":"Lisa Feldman Barrett",
 		"title":"Counterintuitive Ideas About How the Brain Works",
 		"yt":"https://www.youtube.com/watch?v=NbdRIVCBqNI",
-		"books":[]
+		"books":[
+			{
+				"title":"How Emotions Are Made",
+				"author":"Lisa Feldman Barret"
+			},
+			{
+				"title":"Seven and a Half Lessons About the Brain",
+				"author":"Lisa Feldman Barret"
+			},
+			{
+				"title":"The Evolution of Beauty",
+				"author":"Richard Prum"
+			},
+
+		]
 	},
 	{
 		"ep":130,
@@ -1492,7 +1554,24 @@
 		"guest":"George Hotz",
 		"title":"Hacking the Simulation & Learning to Drive with Neural Nets",
 		"yt":"https://www.youtube.com/watch?v=_L3gNaAVjQ4",
-		"books":[]
+		"books":[
+			{
+				"title":"Infinite Jest",
+				"author":"David Foster Wallace"
+			},
+			{
+				"title":"Atlas Shrugged",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"Permutation City",
+				"author":"Greg Egan"
+			},
+			{
+				"title":"The Metamorphisis of Prime Intellect",
+				"author":"Roger Williams"
+			}
+		]
 	},
 	{
 		"ep":133,
