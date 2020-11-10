@@ -1123,28 +1123,52 @@
 		"guest":"Joscha Bach",
 		"title":"Artificial Consciousness and the Nature of Reality",
 		"yt":"https://www.youtube.com/watch?v=P-2P3MSZrBM",
-		"books":[]
+		"books":[
+			{
+				"title":"Principles of Synthetic Intelligence: An Architecture of Motivated Cognition",
+				"author":"Joscha Bach"
+			}
+		]
 	},
 	{
 		"ep":102,
 		"guest":"Steven Pressfield",
 		"title":"The War of Art",
 		"yt":"https://www.youtube.com/watch?v=PgtedwKGhXs",
-		"books":[]
+		"books":[
+			{
+				"title":"The War of Art",
+				"author":"Steven Pressfield"
+			}
+		]
 	},
 	{
 		"ep":103,
 		"guest":"Ben Goertzel",
 		"title":"Artificial General Intelligence",
 		"yt":"https://www.youtube.com/watch?v=OpSmCKe27WE",
-		"books":[]
+		"books":[
+			{
+				"title":"Solaris",
+				"author":"Stanislaw Lem"
+			},
+			{
+				"title":"Do Androids Dream of Electric Sheep?",
+				"author":"Philip Dick"
+			}
+		]
 	},
 	{
 		"ep":104,
 		"guest":"David Patterson",
 		"title":"Computer Architecture and Data Storage",
 		"yt":"https://www.youtube.com/watch?v=naed4C4hfAg",
-		"books":[]
+		"books":[
+			{
+				"title":"Computer Architecture: A Quantitative Approach",
+				"author":"David Patterson and John Hennessy"
+			}
+		]
 	},
 	{
 		"ep":105,
@@ -1165,7 +1189,20 @@
 		"guest":"Peter Singer",
 		"title":"Suffering in Humans, Animals, and AI",
 		"yt":"https://www.youtube.com/watch?v=llh-2pqSGrs",
-		"books":[]
+		"books":[
+			{
+				"title":"Animal Liberation",
+				"author":"Peter Singer"
+			},
+			{
+				"title":"Ethics in the Real World",
+				"author":"Peter Singer"
+			},
+			{
+				"title":"The Life You Can Save",
+				"author":"Peter Singer"
+			}
+		]
 	},
 	{
 		"ep":108,
@@ -1179,7 +1216,24 @@
 		"guest":"Brian Kernighan",
 		"title":"UNIX, C, AWK, AMPL, and Go Programming",
 		"yt":"https://www.youtube.com/watch?v=O9upVbGSBFo",
-		"books":[]
+		"books":[
+			{
+				"title":"The C Programming Language",
+				"author":"Brian Kernighan and Dennis Ritchie"
+			},
+			{
+				"title":"The Practice of Programming",
+				"author":"Brian Kernighan"
+			},
+			{
+				"title":"The Go Programming Language",
+				"author":"Brian Kernighan"
+			},
+			{
+				"title":"UNIX: A History and a Memoir",
+				"author":"Brian Kernighan"
+			}
+		]
 	},
 	{
 		"ep":110,
@@ -1200,7 +1254,12 @@
 		"guest":"Ian Hutchinson",
 		"title":"Nuclear Fusion, Plasma Physics, and Religion",
 		"yt":"https://www.youtube.com/watch?v=pDSEjaDCtOU",
-		"books":[]
+		"books":[
+			{
+				"title":"Can a Scientist Believe in Miracles?",
+				"author":"Ian Hutchinson"
+			}
+		]
 	},
 	{
 		"ep":113,
@@ -1214,28 +1273,104 @@
 		"guest":"Russ Tedrake",
 		"title":"Underactuated Robotics, Control, Dynamics and Touch",
 		"yt":"https://www.youtube.com/watch?v=A22Ej6kb2wo",
-		"books":[]
+		"books":[
+			{
+				"title":"AI Super-Powers: China, Silicon Valley, and the New World Order",
+				"author":"Kai-Fu Lee"
+			},
+			{
+				"title":"Sapiens: A Brief History of Humankind",
+				"author":"Yuval Harari"
+			},
+			{
+				"title":"The Black Swan",
+				"author":"Nassim Taleb"
+			},
+			{
+				"title":"How to Read a Book",
+				"author":"Mortimer Alder and Charles van Doren"
+			},
+			{
+				"title":"I. Asimov",
+				"author":"Isaac Asimov"
+			}
+			{
+				"title":"The Bishop's Boys",
+				"author":"Tom Crouch"
+			}
+		]
 	},
 	{
 		"ep":115,
 		"guest":"Dileep George",
 		"title":"Brain-Inspired AI",
 		"yt":"https://www.youtube.com/watch?v=tg_m_LxxRwM",
-		"books":[]
+		"books":[
+			{
+				"title":"Probabilistic Reasoning in Intelligent Systems",
+				"author":"Judea Pearl"
+			},
+			{
+				"title":"The Mind's I",
+				"author":"Douglas Hofstadter and Daniel Dennett"
+			}
+		]
 	},
 	{
 		"ep":116,
 		"guest":"Sara Seager",
 		"title":"Search for Planets and Life Outside Our Solar System",
 		"yt":"https://www.youtube.com/watch?v=-jA2ABHBc6Y",
-		"books":[]
+		"books":[
+			{
+				"title":"The Giver",
+				"author":"Lois Lowry"
+			},
+			{
+				"title":"Sleeping Island",
+				"author":"P.G. Downes"
+			}
+		]
 	},
 	{
 		"ep":117,
 		"guest":"Sheldon Solomon",
 		"title":"Death and Meaning",
 		"yt":"https://www.youtube.com/watch?v=qfKyNxfyWbo",
-		"books":[]
+		"books":[
+			{
+				"title":"The Worm at the Core",
+				"author":"Sheldon Solomon"
+			},
+			{
+				"title":"The Denial of Death",
+				"author":"Ernest Becker"
+			},
+			{
+				"title":"The Birth and Death of Meaning",
+				"author":"Ernest Becker"
+			},
+			{
+				"title":"Escape From Evil",
+				"author":"Ernest Becker"
+			},
+			{
+				"title":"The Plague",
+				"author":"Albert Camus"
+			},
+			{
+				"title":"Clock Without Hands",
+				"author":"Carson McCullers"
+			},
+			{
+				"title":"Being and Time",
+				"author":"Martin Heidegger"
+			},
+			{
+				"title":"The Dead",
+				"author":"James Joyce"
+			}
+		]
 	},
 	{
 		"ep":118,
@@ -1249,7 +1384,24 @@
 		"guest":"David Eagleman",
 		"title":"Neuroplasticity and the Livewired Brain",
 		"yt":"https://www.youtube.com/watch?v=386s-y1aRRo",
-		"books":[]
+		"books":[
+			{
+				"title":"Invisible Cities",
+				"author":"Italo Calvino"
+			},
+			{
+				"title":"All the Light We Cannot See",
+				"author":"Anthony Doerr"
+			},
+			{
+				"title":"Incognito: The Secret Lives of the Brain",
+				"author":"David Eagleman"
+			},
+			{
+				"title":"Cosmos",
+				"author":"Carl Sagan"
+			}
+		]
 	},
 	{
 		"ep":120,
