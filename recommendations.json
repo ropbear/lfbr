@@ -1608,4 +1608,60 @@
 		"yt":"https://www.youtube.com/watch?v=WxfA1OSev4c",
 		"books":[]
 	},
+	{
+		"ep":138,
+		"guest":"Yaron Brook",
+		"title":"Ayn Rand and the Philosophy of Objectivism",
+		"yt":"https://www.youtube.com/watch?v=SOr1YYRljV8",
+		"books":[
+			{
+				"title":"The Fountainhead",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"Atlas Shrugged",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"Free Market Revolution",
+				"author":"Yaron Brook"
+			},
+			{
+				"title":"Equal Is Unfair",
+				"author":"Yaron Brook and Don Watkins and Jeff Cummings"
+			},
+			{
+				"title":"We the Living",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"Anthem",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"The Rise and Fall of the Third Reich",
+				"author":"William R. Shirer"
+			},
+			{
+				"title":"The Ominous Parallels",
+				"author":"Leonard Peikoff"
+			},
+			{
+				"title":"Introduction to Objectivist Epistemology",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"The Virtue of Selfishness",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"Capitalism: The Unknown Ideal",
+				"author":"Ayn Rand"
+			},
+			{
+				"title":"Philosophy: Who Needs It",
+				"author":"Ayn Rand"
+			}
+		]
+	},
 ]
