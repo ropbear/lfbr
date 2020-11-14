@@ -1,8 +1,8 @@
 # Contributing
 
-To contribute, simply make your additions and open a pull request.
+To contribute, simply make a pull request or open an issue.
 
-Please note the intial collection will come from a cursory review of all the episodes, and often not a full listen. If you find a typo or a missing book mention, please contribute!
+Please note the intial collection comes from a cursory review of all the episodes, and often not a full listen. If you find a typo or a missing book mention, please let me know.
 
 ## Guidelines
 
