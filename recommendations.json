@@ -1664,4 +1664,20 @@
 			}
 		]
 	},
+	{
+		"ep":139,
+		"guest":"Andrew Huberman",
+		"title":"Neuroscience of Optimal Performance",
+		"yt":"https://www.youtube.com/watch?v=Ktj050DxG7Q",
+		"books":[
+			{
+				"title":"Deep Work: Rules for Focused Success in a Distracted World",
+				"author":"Cal Newport"
+			},
+			{
+				"title":"Man's Search for Meaning",
+				"author":"Viktor E. Frankl"
+			}
+		]
+	},
 ]
