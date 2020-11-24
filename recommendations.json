@@ -1680,4 +1680,44 @@
 			}
 		]
 	},
+	{
+		"ep":"140",
+		"guest":"Lisa Feldman Barrett",
+		"title":"Love, Evolution, and the Human Brain",
+		"yt":"https://www.youtube.com/watch?v=S_AFc_BXht4",
+		"books":[
+			{
+				"title":"Seven and a Half Lessons About the Brain",
+				"author":"Lisa Feldman Barret"
+			},
+			{
+				"title":"How Emotions Are Made",
+				"author":"Lisa Feldman Barret"
+			},
+			{
+				"title":"The Triple Helix",
+				"author":"Richard Lewontin"
+			},
+			{
+				"title":"Biology As Ideology",
+				"author":"Richard Lewontin"
+			},
+			{
+				"title":"Naming the Mind",
+				"author":"Kurt Danziger"
+			},
+			{
+				"title":"The Beak of the Finch",
+				"author":"Jonathan Weiner"
+			},
+			{
+				"title":"Major Pettigrew's Last Stand",
+				"author":"Helen Simonson"
+			},
+			{
+				"title":"The Storied Life of A.J. Fikry",
+				"author":"Gabrielle Zevin"
+			}
+		]
+	},
 ]
