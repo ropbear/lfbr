@@ -1681,7 +1681,7 @@
 		]
 	},
 	{
-		"ep":"140",
+		"ep":140,
 		"guest":"Lisa Feldman Barrett",
 		"title":"Love, Evolution, and the Human Brain",
 		"yt":"https://www.youtube.com/watch?v=S_AFc_BXht4",
@@ -1720,4 +1720,40 @@
 			}
 		]
 	},
+	{
+		"ep":141,
+		"guest":"Erik Brynjolfsson",
+		"title":"Economics of AI, Social Networks, and Technology",
+		"yt":"https://www.youtube.com/watch?v=NOReE-3EBhI",
+		"books":[
+			{
+				"title":"The Second Machine Age",
+				"author":"Erik Brynjolfsson"
+			},
+			{
+				"title":"Machine Platform Crowd",
+				"author":"Erik Brynjolfsson and Andrew McAfee"
+			},
+			{
+				"title":"Siddhartha",
+				"author":"Hermann Hesse"
+			},
+			{
+				"title":"The Wordly Philosophers",
+				"author":"Robert Heilbroner"
+			},
+			{
+				"title":"Life 3.0",
+				"author":"Max Tegmark"
+			},
+			{
+				"title":"More From Less",
+				"author":"Andrew McAfee"
+			},
+			{
+				"title":"Atomic Habits",
+				"author":"James Clear"
+			}
+		]
+	}
 ]
